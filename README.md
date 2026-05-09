@@ -112,6 +112,14 @@ Mi enfoque profesional combina desarrollo web, backend y mobile para construir s
 
 ## Nivel educativo
 
+**Tecnología en Desarrollo de Software**
+
+Fundación de Estudios Superiores Comfanorte - F.E.S.C. -- Sede Cúcuta
+
+`02/2023 – 11/2025`
+
+Norte de Santander, Cúcuta, Colombia
+
 **Ingeniería de Software**
 
 Fundación de Estudios Superiores Comfanorte - F.E.S.C. -- Sede Cúcuta
