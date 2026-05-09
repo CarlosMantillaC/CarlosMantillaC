@@ -112,25 +112,46 @@ Mi enfoque profesional combina desarrollo web, backend y mobile para construir s
 
 ## Nivel educativo
 
-**Tecnología en Desarrollo de Software**
+<p align="center">
+	<img src="https://img.shields.io/badge/Formaci%C3%B3n-Acad%C3%A9mica-0F172A?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Formación académica" />
+</p>
 
-Fundación de Estudios Superiores Comfanorte - F.E.S.C. -- Sede Cúcuta
+<details open>
+	<summary><b>Tecnología en Desarrollo de Software</b></summary>
+	<br>
+	<p align="center">
+		<img src="https://img.shields.io/badge/Instituci%C3%B3n-F.E.S.C.-2563EB?style=for-the-badge" alt="Institución" />
+		<img src="https://img.shields.io/badge/Periodo-02%2F2023%20%7C%2011%2F2025-111827?style=for-the-badge" alt="Periodo" />
+		<img src="https://img.shields.io/badge/Estado-Finalizado-F59E0B?style=for-the-badge" alt="Estado" />
+	</p>
+	<p align="center">Fundación de Estudios Superiores Comfanorte - F.E.S.C. -- Sede Cúcuta</p>
+</details>
 
-`02/2023 – 11/2025`
-
-Norte de Santander, Cúcuta, Colombia
-
-**Ingeniería de Software**
-
-Fundación de Estudios Superiores Comfanorte - F.E.S.C. -- Sede Cúcuta
-
-`02/2023 – Presente`
-
-Norte de Santander, Cúcuta, Colombia
+<details>
+	<summary><b>Ingeniería de Software</b></summary>
+	<br>
+	<p align="center">
+		<img src="https://img.shields.io/badge/Instituci%C3%B3n-F.E.S.C.-2563EB?style=for-the-badge" alt="Institución" />
+		<img src="https://img.shields.io/badge/Periodo-02%2F2023%20%7C%20Presente-111827?style=for-the-badge" alt="Periodo" />
+		<img src="https://img.shields.io/badge/Estado-En%20curso-F59E0B?style=for-the-badge" alt="Estado" />
+	</p>
+	<p align="center">Fundación de Estudios Superiores Comfanorte - F.E.S.C. -- Sede Cúcuta</p>
+</details>
 
 ## Contacto
 
-- Correo electrónico: carlosmcot@gmail.com
+<p align="center">
+	<a href="mailto:carlosmcot@gmail.com">
+		<img src="https://img.shields.io/badge/Correo%20electr%C3%B3nico-carlosmcot%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico" />
+	</a>
+	<a href="https://github.com/CarlosMantillaC">
+		<img src="https://img.shields.io/badge/GitHub-CarlosMantillaC-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+	</a>
+</p>
+
+<p align="center">
+	Abierto a oportunidades, colaboraciones y proyectos donde pueda aportar desarrollo web, backend o mobile.
+</p>
 
 ## Actividad en GitHub
 
