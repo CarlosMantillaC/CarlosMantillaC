@@ -1,12 +1,50 @@
 # Perfil de Desarrollo
 
-Ingeniero de Software en formación, con orientación al desarrollo web full stack y al desarrollo móvil. Tengo experiencia en frontend con HTML, CSS y JavaScript, apoyado en frameworks como Tailwind y Bootstrap; en backend con PHP y Java, principalmente a través de Laravel; y en herramientas de apoyo al ciclo de desarrollo como Git, MySQL y Docker.
+<p align="center">
+	<b>Desarrollo productos web, backend y mobile con foco en claridad, escalabilidad y buena experiencia de usuario.</b>
+</p>
 
-También cuento con experiencia en desarrollo de aplicaciones iOS, utilizando Swift, UIKit, arquitecturas como VIPER y patrones de diseño, con integración de APIs y servicios en tiempo real. Me adapto con facilidad a nuevos retos tecnológicos, me comunico de forma clara y efectiva y abordo los problemas con enfoque estructurado.
+<details open>
+	<summary><b>Resumen rápido</b></summary>
+	<br>
+	Ingeniero de Software en formación, orientado al desarrollo full stack y móvil. Cuento con experiencia en frontend utilizando HTML, CSS, JavaScript y tecnologías como Tailwind CSS, Bootstrap y React; en backend con PHP y Laravel, así como Node.js con Express.js. Además, tengo conocimientos en soporte y herramientas de desarrollo como Git, MySQL y Docker.
+	<br><br>
+	También tengo experiencia en iOS con Swift, UIKit y VIPER, integrando APIs y servicios en tiempo real para construir soluciones más completas y funcionales.
+</details>
+
+<details>
+	<summary><b>Lo que aporto</b></summary>
+	<br>
+	- Construyo interfaces limpias y funcionales.
+
+	- Conecto frontend, backend y datos sin perder orden.
+
+	- Trabajo con una mentalidad de pruebas, validación y mejora continua.
+
+	- Me adapto rápido a nuevos entornos y equipos.
+</details>
 
 ## Perfil laboral
 
-Mi enfoque profesional combina desarrollo web, backend y mobile, con interés en construir soluciones funcionales, escalables y bien organizadas. Me siento cómodo trabajando en equipos colaborativos, siguiendo metodologías ágiles como Scrum y Kanban, y participando en todo el flujo de desarrollo, desde la implementación hasta las pruebas y la validación de servicios.
+<p align="center">
+	<img src="https://img.shields.io/badge/Full%20Stack-Web%20%2B%20API%20%2B%20DB-111827?style=for-the-badge" alt="Full Stack" />
+	<img src="https://img.shields.io/badge/Mobile-iOS%20%2B%20Android-0F172A?style=for-the-badge" alt="Mobile" />
+	<img src="https://img.shields.io/badge/Agile-Scrum%20%7C%20Kanban-2563EB?style=for-the-badge" alt="Agile" />
+</p>
+
+Mi enfoque profesional combina desarrollo web, backend y mobile para construir soluciones funcionales, escalables y bien organizadas. Me gusta participar en todo el flujo de desarrollo: diseñar, implementar, probar y validar, con una comunicación clara dentro del equipo.
+
+<details>
+	<summary><b>Cómo suelo trabajar</b></summary>
+	<br>
+	- Priorizo resolver problemas con una base técnica sólida.
+
+	- Mantengo el código ordenado para que escale mejor.
+
+	- Trabajo cómodo en equipos colaborativos con Scrum y Kanban.
+
+	- Me enfoco en entregar valor real, no solo funcionalidad.
+</details>
 
 ## Tecnologías y herramientas
 
@@ -14,14 +52,16 @@ Mi enfoque profesional combina desarrollo web, backend y mobile, con interés en
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 	<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-	<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+	<img src="https://img.shields.io/badge/Laravel-777D26?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+	<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
@@ -47,24 +87,6 @@ Mi enfoque profesional combina desarrollo web, backend y mobile, con interés en
 	<img src="https://img.shields.io/badge/API_REST-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white" alt="API REST" />
 	<img src="https://img.shields.io/badge/Testing-22C55E?style=for-the-badge&logo=pytest&logoColor=white" alt="Testing" />
 </p>
-
-## Proyectos destacados
-
-### SaaS Fitweb
-
-`06/2025`
-
-Desarrollo de un software como servicio destinado a la gestión administrativa de gimnasios, enfocado en un dashboard tipo CRM.
-
-**Tecnologías usadas:** Laravel, Vite, Tailwind, HTML, CSS, JavaScript, MySQL
-
-### Gimnasio CorpusFit
-
-`11/2024`
-
-Prototipo de una aplicación web en Java para la gestión de actividades deportivas, horarios y seguimiento de asistencias.
-
-**Tecnologías usadas:** Java, JSP, HTML, CSS, JavaScript, Bootstrap, MySQL
 
 ## Experiencia profesional
 
@@ -98,34 +120,24 @@ Fundación de Estudios Superiores Comfanorte - F.E.S.C. -- Sede Cúcuta
 
 Norte de Santander, Cúcuta, Colombia
 
-## Idiomas
-
-- Inglés: A2
-
 ## Contacto
 
-- Correo institucional: est_cj_mantilla@fesc.edu.co
-
-## GitHub Metrics
-
-Si quieres mostrar métricas automáticas en tu perfil, crea el archivo `metrics.svg` con el workflow incluido en `.github/workflows/metrics.yml` y reemplaza `TU_USUARIO` por tu usuario real de GitHub en el enlace del README.
-
-```md
-![Metrics](https://github.com/TU_USUARIO/TU_USUARIO/blob/main/metrics.svg)
-```
+- Correo electrónico: carlosmcot@gmail.com
 
 ## Actividad en GitHub
 
-Estas métricas muestran tu actividad reciente, tu calendario de commits y tus hábitos de trabajo en GitHub.
-
 <p align="center">
-	<img src="https://github.com/CarlosMantillaC/CarlosMantillaC/blob/main/metrics.activity.svg" alt="Actividad reciente en GitHub" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosMantillaC&theme=tokyonight" alt="Resumen de actividad en GitHub" />
 </p>
 
 <p align="center">
-	<img src="https://github.com/CarlosMantillaC/CarlosMantillaC/blob/main/metrics.isocalendar.svg" alt="Calendario de commits" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosMantillaC&theme=tokyonight" alt="Estadísticas de GitHub" />
 </p>
 
 <p align="center">
-	<img src="https://github.com/CarlosMantillaC/CarlosMantillaC/blob/main/metrics.habits.svg" alt="Hábitos de actividad" />
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosMantillaC&theme=tokyo-night&hide_border=true" alt="Gráfica de actividad reciente" />
+</p>
+
+<p align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=CarlosMantillaC&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
 </p>
