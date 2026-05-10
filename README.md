@@ -122,7 +122,7 @@ Mi enfoque profesional combina desarrollo web, backend y mobile para construir s
 	<br>
 	<p align="center">
 		<img src="https://img.shields.io/badge/Instituci%C3%B3n-F.E.S.C.-2563EB?style=for-the-badge" alt="Institución" />
-		<img src="https://img.shields.io/badge/Periodo-02%2F2023%20%7C%2011%2F2025-111827?style=for-the-badge" alt="Periodo" />
+		<img src="https://img.shields.io/badge/Periodo-02%2F2023%20%7C%2004%2F2026-111827?style=for-the-badge" alt="Periodo" />
 		<img src="https://img.shields.io/badge/Estado-Finalizado-F59E0B?style=for-the-badge" alt="Estado" />
 	</p>
 	<p align="center">Fundación de Estudios Superiores Comfanorte - F.E.S.C. -- Sede Cúcuta</p>
