@@ -63,6 +63,7 @@ Mi enfoque profesional combina desarrollo web, backend y mobile para construir s
 	<img src="https://img.shields.io/badge/Laravel-777D26?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 	<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
 <p align="center">
